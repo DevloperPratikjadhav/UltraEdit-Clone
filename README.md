@@ -18,4 +18,4 @@ After cloning the repository, open the index.html file in your preferred web bro
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your feedback is highly appreciated.
 
 <h1>Demo</h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmyc4SRtcqPPJBgBEci3rzPAj-_yZU02gw_A&usqp=CAU" alt="demo">
+<img src="https://ibb.co/ZG5Qz7j" alt="demo">

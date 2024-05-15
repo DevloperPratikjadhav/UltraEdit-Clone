@@ -18,4 +18,4 @@ After cloning the repository, open the index.html file in your preferred web bro
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your feedback is highly appreciated.
 
 <h1>Demo</h1>
-<img src="https://app.gemoo.com/share/image-annotation/649397645377261568?codeId=vzRkgJQonV0Jn&origin=imageurlgenerator&card=649397638242738176" alt="demo">
+<img src="clone.png" alt="demo">

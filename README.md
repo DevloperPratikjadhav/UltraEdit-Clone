@@ -18,4 +18,4 @@ After cloning the repository, open the index.html file in your preferred web bro
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your feedback is highly appreciated.
 
 <h1>Demo</h1>
-<img src="clone.png" alt="demo">
+<img src="clone_.png" alt="demo">

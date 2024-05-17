@@ -126,3 +126,24 @@ section span img {
         grid-template-columns: 1fr; 
     }
 }
+footer{
+    background-color: rgb(146, 146, 146);
+    position:relative;
+
+}
+ .heading{
+    color: rgb(0, 0, 0);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-family: serif;
+}
+li{
+    list-style: none
+    
+}
